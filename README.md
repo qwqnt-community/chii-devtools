@@ -1,11 +1,16 @@
 # chii-devtools
 
-qwqnt/LiteLoaderQQNT 插件，使用 Chii 进行远程调试  
+从LiteLoaderQQNT移植而来，已对高版本进行了兼容修复
+
+qwqnt/LiteLoaderQQNT 插件，使用 Chii 进行远程调试
 使用上跟普通的 DevTools 差不多，但缺失了一些功能
 
 ## 安装方法
 
 ### 通过 Release
+
+> [!NOTE]\
+> qwqnt框架使用前需要先禁用框架自带的chii功能
 
 下载最新的 `Release` 的 `chii-devtools.zip`，解压到 `chii-devtools` 放到 `插件目录`
 
